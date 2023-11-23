@@ -7,16 +7,16 @@ You are required to develop a CRUD (Create – Read – Update – Delete) appli
 Solution:  
     
 **Setup Instructions**    
-****Prerequisites***  
+**Prerequisites**  
 Node.js installed on your local machine  
 API Key for CRM system (obtained from your CRM provider)  
     
-***Getting Started***  
+**Getting Started**  
     
-***Clone this repository to your local machine****:  
+**Clone this repository to your local machine**:  
 git clone https://github.com/your-username/Interactly-Task-1-Submission.git  
     
-***Install project dependencies***:  
+**Install project dependencies**:  
 npm install  
     
 ***Set up your API Key***:  
@@ -24,8 +24,8 @@ Open the .env file in the project root directory.
 Replace the value of API_KEY with your CRM API Key.  
 Save the changes.  
     
-*Start the project by running*:  
+**Start the project by running**:  
 npm start  
 The application will start and run on http://localhost:3000.  
-  
+      
 ------------------------X--------END--------X--------------------------
