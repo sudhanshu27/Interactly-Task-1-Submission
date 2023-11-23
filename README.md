@@ -1,12 +1,13 @@
 # Interactly-Task-1-Submission  
 ***Interactly – BACKEND DEVELOPER – Coding Task - 1***  
     
-**Task 1:**
+**Task 1:**  
 You are required to develop a CRUD (Create – Read – Update – Delete) application in NodeJs using ExpressJS framework in this round. Basically, you will use FreshSales CRM API to create a Contact in FreshSales CRM, Retrieve Contact, Update Contact, Delete Contact.  
     
-**Solution:**
+**Solution:**  
     
-**Setup Instructions**    
+**Setup Instructions:**    
+  
 ***Prerequisites***  
 Node.js installed on your local machine  
 API Key for CRM system (obtained from your CRM provider)  
@@ -14,7 +15,7 @@ API Key for CRM system (obtained from your CRM provider)
 ***Getting Started***  
     
 ***Clone this repository to your local machine***:  
-git clone https://github.com/your-username/Interactly-Task-1-Submission.git  
+git clone https://github.com/<your-username>/Interactly-Task-1-Submission.git  
     
 ***Install project dependencies***:  
 npm install  
